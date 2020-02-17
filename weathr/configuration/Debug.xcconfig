@@ -1,0 +1,16 @@
+//
+//  Debug.xcconfig
+//  weathr
+//
+//  Created by Haroun Smida on 15/02/2020.
+//  Copyright © 2020 Haroun Smida. All rights reserved.
+//
+
+APP_NAME=Debug-weathr
+APP_ICON=AppIconDebug
+APP_BUNDLE_ID=smidaharoun.weathr.debug
+APP_VERSION=1.0
+BASE_URL=https:/$()/api.openweathermap.org/data
+API_VERSION=2.5
+API_KEY=75b1739eabf0820a5e4d516a571fe387
+

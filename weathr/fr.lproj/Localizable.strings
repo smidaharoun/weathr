@@ -1,0 +1,17 @@
+/*
+  Localizables.strings
+  weathr
+
+  Created by Développeur on 17/02/2020.
+  Copyright © 2020 Haroun Smida. All rights reserved.
+*/
+
+"Sunrise"="Lever";
+"Sunset"="Coucher";
+"Chance of rain"="Risque de pluie";
+"Wind"="Vent";
+"Humidity"="Humidité";
+"Feels like"="Ressenti";
+"Pressure"="Pression";
+"Forecast Details"="Détails";
+"Today"="Aujourd'hui";
